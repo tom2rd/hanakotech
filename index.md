@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# こだいらあたりで　Civic Tech　 library へようこそ
 
-You can use the [editor on GitHub](https://github.com/tom2rd/hanakotech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+東京都小平市のあたりで、CivicTech・OpenDataの取組みをしている　仲間のデータライブラリです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+メインページは、[こちら](https://tom2rd.sakura.ne.jp/hanakotech/)です。
+https://tom2rd.sakura.ne.jp/hanakotech/
 
-### Markdown
+他にも、いろんなページがあります。https://scrapbox.io/HanakoCivicTech/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 活動
 
-```markdown
-Syntax highlighted code block
+団体名「こだいらあたりでCivicTech」は、IT技術活用による地域・コミュニティーの課題解決活動や得意なテクノロジーを駆使して、オープンデータ・マップ化を
+目指すメンバーの集まりです。クラウド、IoT、プログラムなど色んな技術を活用できるメンバーがいます。ちょっと困ったことなど気軽に聞いてみてください。解決方法が出て来るかもしれません。勉強会も開催します。課題と解決技術に挑戦したい、そんな会員を募集中です。
+お知らせは主にwebサイト、[facebookグループ](https://www.facebook.com/groups/114497269232471/)でやり取りしています。
 
-# Header 1
-## Header 2
-### Header 3
+### 活動のサンプル
 
-- Bulleted
-- List
+- [こだいら避難所マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/hinan.html) 病院マップや備蓄品一覧などもあるよ♪
+- [こだいら公園マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/index.html)　３００以上あるよ♪
 
-1. Numbered
-2. List
+今は、マップなどを作ったりしています。https://tom2rd.sakura.ne.jp/hanakotech/category/mapping/
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tom2rd/hanakotech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
