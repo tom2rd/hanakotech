@@ -5,7 +5,7 @@
 メインページは、[こちら](https://tom2rd.sakura.ne.jp/hanakotech/)です。
 https://tom2rd.sakura.ne.jp/hanakotech/
 
-他にも、いろんなページがあります。https://scrapbox.io/HanakoCivicTech/
+他にも、[Scrapboxのページ](https://scrapbox.io/HanakoCivicTech/)があります。
 
 ## 活動
 
@@ -18,5 +18,7 @@ https://tom2rd.sakura.ne.jp/hanakotech/
 - [こだいら避難所マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/hinan.html) 病院マップや備蓄品一覧などもあるよ♪
 - [こだいら公園マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/index.html)　３００以上あるよ♪
 
-今は、マップなどを作ったりしています。https://tom2rd.sakura.ne.jp/hanakotech/category/mapping/
+今は、[マップ関連](https://tom2rd.sakura.ne.jp/hanakotech/category/mapping/)が多いかな？
+
+-[Wikiはこちら](https://github.com/tom2rd/hanakotech/wiki)
 
