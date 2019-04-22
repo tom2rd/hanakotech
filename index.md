@@ -17,6 +17,7 @@ https://tom2rd.sakura.ne.jp/hanakotech/
 
 - [こだいら避難所マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/hinan.html) 病院マップや備蓄品一覧などもあるよ♪
 - [こだいら公園マップ](https://tom2rd.sakura.ne.jp/hanakotech/parkmap/index.html)　３００以上あるよ♪
+- [PWAアプリ版 こだいら公園・避難所・病院マップ](https://go.glideapps.com/play/3xBVqx5XmOftJ0vmgJW3) 避難所マップと公園マップ、病院マップなど水があるところなど、また災害時にTwitterで情報収集できるリンク集などを、PWAアプリにしました。PWAアプリだと、通信がもしできなくなっても、使えるので、是非、小平市に関係する人はスマホに入れておいてほしいです。
 
 今は、[マップ関連](https://tom2rd.sakura.ne.jp/hanakotech/category/mapping/)が多いかな？
 
