@@ -25,7 +25,8 @@ function sayHello(person: string) {
 sayHello("みなさん");
 ```
 
-##Code-Knack
+
+##　Code-Knack
 
 GitPress uses [Code-Knack](https://github.com/lyricat/code-knack) as the living code evaluator. こんな感じ:
 
@@ -74,6 +75,8 @@ produces:
 \, 6, \overline{3}, \, 7\sqrt{5}
 \}
 ```
+
+## フロー図などのダイヤグラムを書く
 
 GitPress supports Markdown extension for diagrams, you could enable this feature using Markdown's code block syntax
 
