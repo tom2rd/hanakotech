@@ -3,31 +3,9 @@ title: Gitpress　Scala, Typescript, CPP, Java, Python, LaTeX  codes を動か�
 date: 2019-06-20
 ---
 
-Powered by [Typescript Service](https://github.com/Microsoft/TypeScript/) and [Scastie](https://scastie.scala-lang.org/), GitPress supports Markdown extension for Scala and Typescript. 
+## Code-knack
 
-Check the [source of this post](https://github.com/gitpress-io/blog/blob/master/source/scala-and-typescript.md) to learn how to use them.
-
-## Scala
-
-```scala
-def sayHello(person: String): Unit = {
-  println("こんにちは, " + person)
-}
-sayHello("みなさん")
-```
-
-## Typescript
-
-```typescript
-function sayHello(person: string) {
-  console.log("こんにちは, " + person);
-}
-sayHello("みなさん");
-```
-
-
-##　Code-Knack
-
+これが凄いのかも。。
 GitPress uses [Code-Knack](https://github.com/lyricat/code-knack) as the living code evaluator. こんな感じ:
 
 ```c
@@ -75,6 +53,29 @@ produces:
 \, 6, \overline{3}, \, 7\sqrt{5}
 \}
 ```
+
+Powered by [Typescript Service](https://github.com/Microsoft/TypeScript/) and [Scastie](https://scastie.scala-lang.org/), GitPress supports Markdown extension for Scala and Typescript. 
+
+Check the [source of this post](https://github.com/gitpress-io/blog/blob/master/source/scala-and-typescript.md) to learn how to use them.
+
+## Scala
+
+```scala
+def sayHello(person: String): Unit = {
+  println("こんにちは, " + person)
+}
+sayHello("みなさん")
+```
+
+## Typescript
+
+```typescript
+function sayHello(person: string) {
+  console.log("こんにちは, " + person);
+}
+sayHello("みなさん");
+```
+
 
 ## フロー図などのダイヤグラムを書く
 
