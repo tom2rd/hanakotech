@@ -1,4 +1,10 @@
-##Python
+---
+title: Gitpress　で Python
+date: 2019-10-17
+---
+Gitpress で　Pythonが動くようになったので、動かしてみる。。。Code-Knackの方ではShellも動くようになったみたいなので、Bashでコマンドが動くのか見てみよう。。。
+
+##Python　は　2.7系らしいが。。
 
 ```python
 def foo():
@@ -9,10 +15,13 @@ def foo():
 
 foo()
 ```
+2.7 系なら printの後ろに（）いらないはずだけど。。Python3系なのかな？？
 
-##Bash
+
+##Bashは動くのか？
 ```SH
 #!/usr/bin/env bash
 echo "OK"
 ```
-        
+Runがでないな。。
+
