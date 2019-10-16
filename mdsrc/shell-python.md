@@ -23,5 +23,26 @@ foo()
 #!/usr/bin/env bash
 echo "OK"
 ```
-Runがでないな。。
+Runがでないな。
 
+##Python でセッションが継続されるみたい
+```python
+def inc(x):
+    return x + 1
+```
+
+```python
+def dec(x):
+    return x - 1
+```
+```python
+a = 10
+# you can use inc and dec function aboved.
+a = inc(10)
+print('a = ', a)
+# output: a = 11
+a = dec(10)
+print('a = ', a)
+# output: a = 9
+```
+これはいいな。。
