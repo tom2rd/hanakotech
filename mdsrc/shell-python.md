@@ -62,6 +62,17 @@ a = dec(10)
 print('a = ', a)
 # output: a = 9
 ```
-import とかできるのかな？？
+import とかできるのかな？？ 　
+import os
+os.system("ls")
+はインプリメントされてなかったみたい(笑)　当たり前だな。。
+
+ドキュメントがないので。。どこまで動くのかは不明(笑)
+https://gitpress.io/c/helps/languages
+
+どうも、これでPythonを動かしているみたいですね。
+http://skulpt.org/
+
+これもブラウザ上でPythonが動かせる。。
 
 
