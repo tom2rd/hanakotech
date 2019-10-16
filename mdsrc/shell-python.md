@@ -4,7 +4,7 @@ date: 2019-10-17
 ---
 Gitpress で　Pythonが動くようになったので、動かしてみる。。。Code-Knackの方ではShellも動くようになったみたいなので、Bashでコマンドが動くのか見てみよう。。。
 
-##Python　は　2.7系らしいが。。
+## Python　は　2.7系らしいが。。
 
 ```python
 def foo():
@@ -18,14 +18,14 @@ foo()
 2.7 系なら printの後ろに（）いらないはずだけど。。Python3系なのかな？？
 
 
-##Bashは動くのか？
+## Bashは動くのか？
 ```SH
 #!/usr/bin/env bash
 echo "OK"
 ```
 Runがでないな。
 
-##Python でセッションが継続されるみたい
+## Python でセッションが継続されるらしいが。。
 ```python
 def inc(x):
     return x + 1
@@ -45,4 +45,23 @@ a = dec(10)
 print('a = ', a)
 # output: a = 9
 ```
-これはいいな。。
+されないようです(笑)
+
+でも。。これ便利かも
+```python
+def dec(x):
+    return x - 1
+def inc(x):
+    return x + 1
+a = 10
+# you can use inc and dec function aboved.
+a = inc(10)
+print('a = ', a)
+# output: a = 11
+a = dec(10)
+print('a = ', a)
+# output: a = 9
+```
+import とかできるのかな？？
+
+
