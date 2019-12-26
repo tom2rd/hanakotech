@@ -5,3 +5,7 @@ This is Kodaira-ataride- CivicTech opensource library
 - [Gitpressでコード動かす](https://gitpress.io/@tom2rd/)
 - [Google Colaboratory で Pythonをはじめよう](https://github.com/tom2rd/Googlecolabutils/tree/master/python)
 - [Google Colaboratory Utilitys](https://github.com/tom2rd/Googlecolabutils)
+
+# お勧めPython Lectures
+- [Python Lecture Notes with Jupyter Notebooks](https://github.com/tom2rd/python_lecture_notes)
+- [Lectures on scientific computing with python, as IPython notebooks.](https://github.com/tom2rd/scientific-python-lectures)
