@@ -24,3 +24,13 @@ https://tom2rd.sakura.ne.jp/hanakotech/
 
 - [Wikiはこちら](https://github.com/tom2rd/hanakotech/wiki)
 
+## 全国お弁当・テイクアウトGlideAppsプロジェクト
+地元のお店を応援しようと作ったお弁当・テイクアウトアプリから、なぜかひょんなことで小平・稲城・府中から始まったプロジェクトです  
+- [全国版お弁当テイクアウトGlideApp](https://obento-takeout.glideapp.io/)コロナ自粛を受け各地域が作ったアプリの総覧アプリです
+- [情報まとめサイト](https://tom2rd.sakura.ne.jp/hanakotech/2020/04/03/post-14598/)
+- [GlideApps作成参考リンク集](https://tom2rd.sakura.ne.jp/hanakotech/2020/04/10/post-14660/)
+- [FAQ質問回答集](https://tom2rd.sakura.ne.jp/hanakotech/2020/04/11/post-14670/)  
+まだまだ地域で役立てられる方法があるかもですよ。  
+　アプリ制作はほんの入り口かもしれません。その情報を集めたり、  
+  いろいろな仲間づくりの一つのツールとして、参考になると嬉しいです。
+
