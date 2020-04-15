@@ -25,7 +25,7 @@ https://tom2rd.sakura.ne.jp/hanakotech/
 - [Wikiはこちら](https://github.com/tom2rd/hanakotech/wiki)
 
 ## 全国お弁当・テイクアウトGlideAppsプロジェクト イチコロ
-新型コロナでの自粛での影響を受け、地元のお店を応援しようと作ったお弁当・テイクアウトアプリから、なぜかひょんなことで小平・稲城・府中から、一致団結してコロナに対応しよう！とイチコロってギャグで、始まったプロジェクトです  現在40個以上の地域で頑張る仲間がいます！（Apl,15,2020時点)  
+新型コロナでの自粛での影響を受け、地元のお店を応援しようと作ったお弁当・テイクアウトアプリから、なぜかひょんなことで小平・稲城・府中から、一致団結してコロナに対応しよう！とイチコロってギャグで、始まったプロジェクトです  現在40個以上の地域で頑張るCivicTecherがいます！（Apl,15,2020時点)  
 - [全国版お弁当テイクアウトGlideApp](https://obento-takeout.glideapp.io/) コロナ自粛を受け各地域が作ったアプリの総覧アプリです
 - [情報まとめサイト](https://tom2rd.sakura.ne.jp/hanakotech/2020/04/03/post-14598/)
 - [GlideApps作成参考リンク集](https://tom2rd.sakura.ne.jp/hanakotech/2020/04/10/post-14660/)
